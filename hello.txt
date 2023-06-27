@@ -1,1 +1,3 @@
 Hello everybody
+
+Just so to let hou know, this is just my first ever linux CLI git tutorial on YouTube from LearnLinux TV
